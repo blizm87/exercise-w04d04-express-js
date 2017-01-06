@@ -3,7 +3,7 @@ var express = require('express');
 var app = express();
 
 // GET '/'
-app.get('/', function(req, res) {
+app.get('/counter', function(req, resp) {
   // render a link to '/counter'
 });
 

@@ -1,0 +1,24 @@
+{
+  "name": "exercise-w04d04-express-js",
+  "version": "1.0.0",
+  "description": "Work through `server.js` and use the express routing guide to complete each request",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blizm87/exercise-w04d04-express-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blizm87/exercise-w04d04-express-js/issues"
+  },
+  "homepage": "https://github.com/blizm87/exercise-w04d04-express-js#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
